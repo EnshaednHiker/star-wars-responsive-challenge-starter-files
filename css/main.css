@@ -1,0 +1,27 @@
+* {
+    font-family: Roboto;
+}
+
+body {
+    margin-bottom: 100px;
+}
+
+.header-format {
+    background-color: #EFBD37;
+    display: block;
+}
+
+h1 {
+    font-size: 1em;
+}
+
+.box {
+    width: 100%;
+    text-align: center;
+    padding-top: 30px;
+}
+
+.lower-card {
+    border: 1px lightgray solid;
+    padding-left: 10px;
+}
